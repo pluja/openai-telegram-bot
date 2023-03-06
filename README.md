@@ -11,8 +11,9 @@ A telegram bot to interact with OpenAI API. You can:
 Other features include:
 
 - Clear ChatGPT context history (to save tokens).
-- Per-user context and usage metrics.
+- Per-user context and usage metrics and spent $.
 - No database, data is saved in-memory.
+- Lightweight: just a single python file.
 
 ## Self-hosting
 
