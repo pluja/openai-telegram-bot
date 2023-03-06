@@ -12,7 +12,7 @@ Other features include:
 
 - Clear ChatGPT context history (to save tokens).
 - Per-user context and usage metrics.
-- No database, data is saved on-memory.
+- No database, data is saved in-memory.
 
 ## Self-hosting
 
