@@ -15,6 +15,11 @@ Other features include:
 - No database, data is saved in-memory.
 - Lightweight: just a single python file.
 
+[Jump to selfhosting guide](#self-hosting)
+
+![](https://rimgo.bus-hit.me/xL75hX2.png)
+![](https://rimgo.bus-hit.me/4ItDzyc.png)
+
 ## Self-hosting
 
 Self hosting this chatbot is pretty easy. You just need to follow this steps:
